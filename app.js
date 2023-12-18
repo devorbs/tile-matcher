@@ -26,7 +26,7 @@ class MemoryGame {
 
                 boxElement.addEventListener('touchstart', (event) => {
                     event.preventDefault(); 
-                    handleBoxClick(boxElement, box);
+                    this.handleBoxClick(boxElement, box);
                 });
             }
         }
