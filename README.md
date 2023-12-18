@@ -37,11 +37,11 @@ CSS
 JavaScript (ES6+)
 
 # Contributing
-Fork the repository.
-Create a new branch: git checkout -b feature/your-feature-name.
-Commit your changes: git commit -m 'Add some feature'.
-Push to the branch: git push origin feature/your-feature-name.
-Submit a pull request.
+Fork the repository.  
+Create a new branch: git checkout -b feature/your-feature-name.  
+Commit your changes: git commit -m 'Add some feature'.  
+Push to the branch: git push origin feature/your-feature-name.  
+Submit a pull request.  
 
 # License
 This project is licensed under the MIT License.
